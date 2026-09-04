@@ -1,2 +1,11 @@
-# cencora-order-api-s06
-Pharmaceutical Order API for CI/CD Lab
+# Cencora Order API
+
+Sample Pharmaceutical Order API used for CI/CD training.
+
+## Purpose
+This application provides:
+- Health endpoint
+- Order submission endpoint
+
+## Team Members
+- Student06
